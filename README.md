@@ -3,16 +3,17 @@ print(f'Follow {@tr9sh} on Github & YouTube')
 ```
 
 ```python
-       OS     : Windows 10 / Ubuntu Linux
+    	   OS  :  windows + linux
 	Editor : VS Code, Sublime Text
 	Others : Git, Docker, Nginx
    Skills  :  Web_Dev, Software_Dev, Reverse_Engineering, Scripting, Compiling
-Languages  :  JavaScript, C, C#, C++, JSON, Autohotkey, HTML/CSS, Python, Assembly, Wordpress Development
+Languages  :  JavaScript, C, C#, C++, JSON, Autohotkey, HTML/CSS, Python, Assembly, Wordpress Dev
 ```
 
 ```json
-"Knowledge is power, but power is nothing without control."
+Knowledge is power, but power is nothing without control.
 ```
+
 # Hi there, I'm [@tr9sh](https://github.com/tr9sh) 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a diverse set of skills. Here's a bit about me:
