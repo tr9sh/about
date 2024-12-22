@@ -4,7 +4,7 @@ print(f'Follow {@tr9sh} on Github & YouTube')
 
 ```python
        OS  :  windows + linux
-   Skills  :  Web Dev, Software Dev, Reverse Engineering, Scripting, Compiling
+   Skills  :  WebDev, Software Dev, Reverse Engineering, Scripting, Compiling
 Languages  :  JavaScript, C, C#, C++, JSON, Autohotkey, HTML/CSS, Python, Assembly, Wordpress Development
 ```
 
